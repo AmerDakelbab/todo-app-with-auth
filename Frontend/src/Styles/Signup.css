@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+.input {
+    width: 20vw;
+    margin-bottom: 15px;
+}
+.button button{
+    margin-top: 5px;
+    width: 10vw;
+}

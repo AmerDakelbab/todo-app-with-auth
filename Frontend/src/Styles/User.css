@@ -1,0 +1,47 @@
+.todo {
+    border: 5px solid rgb(83, 83, 83);
+    height: 50vh;
+    width: 100vh;
+    background-color: white;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+.inputt {
+    width: 25vw;
+    height: 5vh;
+    margin-right: -25px;
+}
+.buttonadd {
+    height: 5vh;
+    width:4vw;
+}
+.list {
+    background-color: rgb(241, 241, 241);
+    margin-top: 5px;
+    margin-left: 11.3vw;
+    margin-right: 11.3vw;
+    display: flex;
+    justify-content: start;
+}
+p {
+    margin-left: 15px;
+}
+.delete {
+    position: fixed;
+    right: 37vw;
+    margin-top: 10px;
+    border: none;
+    color: red;
+}
+.butonlog {
+    position: fixed;
+    bottom: 13vw;
+    right: 45vw;
+}
+.logout {
+    width: 10vw;
+}
